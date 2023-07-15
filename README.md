@@ -1,4 +1,5 @@
 # tinyid
+![Coverage](https://img.shields.io/badge/Coverage-84.6%25-brightgreen)
 A tiny, URL-friendly, unique string ID generator for golang.
 
 ## import
